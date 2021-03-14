@@ -6,9 +6,6 @@ Com essa aplicação é possível você criar um usuário e adicionar até 5 mú
 ![MusicFy](https://github.com/lucianobs1/music-fy/blob/main/music_api.gif)
 
 
-
-
-https://github.com/lucianobs1/music_fy/blob/main/music_api.gif
 # Instalação
 Clonar o projeto em uma pasta em sua maquina, e ao abrir-lo usando sua IDE executar o comando no terminal integrado: <br>
 `yarn`
